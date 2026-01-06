@@ -1,7 +1,7 @@
 # ☀️ La Singularité Symbiotique
 ### Une Doctrine Opérationnelle pour le Bien Commun Mondial
 
-![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![Status](https://img.shields.io/badge/Status-Manifesto-success.svg)
 ![System](https://img.shields.io/badge/OS-Game_B-blueviolet.svg)
 
